@@ -13,18 +13,18 @@
 #include <WiFi.h>
 #include <ESP_Mail_Client.h>
 
-#define WIFI_SSID "ixs"
-#define WIFI_PASSWORD "delzirinha2016"
+#define WIFI_SSID "xxxxxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxxxxxxxxxxxxxxxxxx"
 
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 465
 
 /* The sign in credentials */
-#define AUTHOR_EMAIL "i4x.data@gmail.com"
-#define AUTHOR_PASSWORD "xxxx2023@"
+#define AUTHOR_EMAIL "xxxxxxxxxxxxxxxxxxx@gmail.com"
+#define AUTHOR_PASSWORD "xxxxxxxxxxxxxxxxxxx"
 
 /* Recipient's email*/
-#define RECIPIENT_EMAIL "jairobernardesjuniorS@gmail.com"
+#define RECIPIENT_EMAIL "xxxxxxxxxxxxxxxxxxxx@gmail.com"
 
 /* The SMTP Session object used for Email sending */
 SMTPSession smtp;
