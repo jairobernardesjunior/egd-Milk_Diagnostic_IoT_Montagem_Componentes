@@ -1,5 +1,4 @@
 // Programa : Pisque um LED
-// Autor : MakerHero
   
 void setup()
 {
